@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 17/01/2019 14:19
+    Creation date: 01/03/2019 07:41
     */
 
     @font-face {
@@ -37,16 +37,104 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-praying:before { content: "\f100"; }
-.flaticon-church:before { content: "\f101"; }
-.flaticon-bible:before { content: "\f102"; }
-.flaticon-social-care:before { content: "\f103"; }
-.flaticon-rings:before { content: "\f104"; }
-.flaticon-promotion:before { content: "\f105"; }
+    .flaticon-001-startup:before { content: "\f100"; }
+.flaticon-002-link:before { content: "\f101"; }
+.flaticon-003-devices:before { content: "\f102"; }
+.flaticon-004-world:before { content: "\f103"; }
+.flaticon-005-floppy-disk:before { content: "\f104"; }
+.flaticon-006-envelope:before { content: "\f105"; }
+.flaticon-007-graphic-design:before { content: "\f106"; }
+.flaticon-008-shield:before { content: "\f107"; }
+.flaticon-009-usability:before { content: "\f108"; }
+.flaticon-010-video:before { content: "\f109"; }
+.flaticon-011-head:before { content: "\f10a"; }
+.flaticon-012-rgb:before { content: "\f10b"; }
+.flaticon-013-text:before { content: "\f10c"; }
+.flaticon-014-promotion:before { content: "\f10d"; }
+.flaticon-015-smartphone:before { content: "\f10e"; }
+.flaticon-016-home-page:before { content: "\f10f"; }
+.flaticon-017-speed:before { content: "\f110"; }
+.flaticon-018-data:before { content: "\f111"; }
+.flaticon-019-mobile:before { content: "\f112"; }
+.flaticon-020-interface:before { content: "\f113"; }
+.flaticon-021-folder:before { content: "\f114"; }
+.flaticon-022-chip:before { content: "\f115"; }
+.flaticon-023-menu:before { content: "\f116"; }
+.flaticon-024-web-development:before { content: "\f117"; }
+.flaticon-025-project:before { content: "\f118"; }
+.flaticon-026-settings:before { content: "\f119"; }
+.flaticon-027-website:before { content: "\f11a"; }
+.flaticon-028-search:before { content: "\f11b"; }
+.flaticon-029-user:before { content: "\f11c"; }
+.flaticon-030-image:before { content: "\f11d"; }
+.flaticon-031-web-development-1:before { content: "\f11e"; }
+.flaticon-032-blueprint:before { content: "\f11f"; }
+.flaticon-033-login:before { content: "\f120"; }
+.flaticon-034-tap:before { content: "\f121"; }
+.flaticon-035-idea:before { content: "\f122"; }
+.flaticon-036-firewall:before { content: "\f123"; }
+.flaticon-037-binary-code:before { content: "\f124"; }
+.flaticon-038-analytics:before { content: "\f125"; }
+.flaticon-039-data-1:before { content: "\f126"; }
+.flaticon-040-cloud-computing:before { content: "\f127"; }
+.flaticon-041-algorithm:before { content: "\f128"; }
+.flaticon-042-vector:before { content: "\f129"; }
+.flaticon-043-layers:before { content: "\f12a"; }
+.flaticon-044-conversion:before { content: "\f12b"; }
+.flaticon-045-network:before { content: "\f12c"; }
+.flaticon-046-optimization:before { content: "\f12d"; }
+.flaticon-047-file:before { content: "\f12e"; }
+.flaticon-048-sketching:before { content: "\f12f"; }
+.flaticon-049-backlink:before { content: "\f130"; }
+.flaticon-050-programming:before { content: "\f131"; }
     
-    $font-Flaticon-praying: "\f100";
-    $font-Flaticon-church: "\f101";
-    $font-Flaticon-bible: "\f102";
-    $font-Flaticon-social-care: "\f103";
-    $font-Flaticon-rings: "\f104";
-    $font-Flaticon-promotion: "\f105";
+    $font-Flaticon-001-startup: "\f100";
+    $font-Flaticon-002-link: "\f101";
+    $font-Flaticon-003-devices: "\f102";
+    $font-Flaticon-004-world: "\f103";
+    $font-Flaticon-005-floppy-disk: "\f104";
+    $font-Flaticon-006-envelope: "\f105";
+    $font-Flaticon-007-graphic-design: "\f106";
+    $font-Flaticon-008-shield: "\f107";
+    $font-Flaticon-009-usability: "\f108";
+    $font-Flaticon-010-video: "\f109";
+    $font-Flaticon-011-head: "\f10a";
+    $font-Flaticon-012-rgb: "\f10b";
+    $font-Flaticon-013-text: "\f10c";
+    $font-Flaticon-014-promotion: "\f10d";
+    $font-Flaticon-015-smartphone: "\f10e";
+    $font-Flaticon-016-home-page: "\f10f";
+    $font-Flaticon-017-speed: "\f110";
+    $font-Flaticon-018-data: "\f111";
+    $font-Flaticon-019-mobile: "\f112";
+    $font-Flaticon-020-interface: "\f113";
+    $font-Flaticon-021-folder: "\f114";
+    $font-Flaticon-022-chip: "\f115";
+    $font-Flaticon-023-menu: "\f116";
+    $font-Flaticon-024-web-development: "\f117";
+    $font-Flaticon-025-project: "\f118";
+    $font-Flaticon-026-settings: "\f119";
+    $font-Flaticon-027-website: "\f11a";
+    $font-Flaticon-028-search: "\f11b";
+    $font-Flaticon-029-user: "\f11c";
+    $font-Flaticon-030-image: "\f11d";
+    $font-Flaticon-031-web-development-1: "\f11e";
+    $font-Flaticon-032-blueprint: "\f11f";
+    $font-Flaticon-033-login: "\f120";
+    $font-Flaticon-034-tap: "\f121";
+    $font-Flaticon-035-idea: "\f122";
+    $font-Flaticon-036-firewall: "\f123";
+    $font-Flaticon-037-binary-code: "\f124";
+    $font-Flaticon-038-analytics: "\f125";
+    $font-Flaticon-039-data-1: "\f126";
+    $font-Flaticon-040-cloud-computing: "\f127";
+    $font-Flaticon-041-algorithm: "\f128";
+    $font-Flaticon-042-vector: "\f129";
+    $font-Flaticon-043-layers: "\f12a";
+    $font-Flaticon-044-conversion: "\f12b";
+    $font-Flaticon-045-network: "\f12c";
+    $font-Flaticon-046-optimization: "\f12d";
+    $font-Flaticon-047-file: "\f12e";
+    $font-Flaticon-048-sketching: "\f12f";
+    $font-Flaticon-049-backlink: "\f130";
+    $font-Flaticon-050-programming: "\f131";
